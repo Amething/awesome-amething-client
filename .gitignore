@@ -26,6 +26,7 @@ dist-ssr
 # zero-install
 .yarn/*
 !.yarn/cache
+.yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
